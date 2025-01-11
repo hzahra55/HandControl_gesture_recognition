@@ -1,1 +1,1 @@
-# HCI_hand_gesture_recognition
+# HandControl_gesture_recognition
