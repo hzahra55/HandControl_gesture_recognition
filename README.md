@@ -31,16 +31,12 @@ Optimizer: Stochastic Gradient Descent (SGD)
 
 Loss function: Categorical Cross Entropy
 
-Training Details:
-
 Epochs: 2 per segment
 
 Metrics: Accuracy tracked during training, validation, and testing.
 
 
-Setup and Installation
-
-Prerequisites
+# Setup and Installation
 
 Python 3.8+
 
@@ -66,13 +62,13 @@ Download the Jester dataset and place it in the data folder.
 
 # Challenges and Limitations
 
-Challenges
+## Challenges
 
 Initial convergence slowed by suboptimal hyperparameters.
 
 Environmental noise (e.g., lighting variations) affected real-world performance.
 
-Limitations
+## Limitations
 
 Only 10 of 27 gesture classes were implemented.
 
