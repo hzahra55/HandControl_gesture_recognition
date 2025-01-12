@@ -55,6 +55,7 @@ NumPy, Pandas, Matplotlib
 Clone the repository:
 
 git clone https://github.com/hzahra55/HandControl_gesture_recognition.git
+
 cd gesture_recognition
 
 Install dependencies:
